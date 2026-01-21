@@ -14,6 +14,6 @@ I'm currently focused on backend development using Java and Node.js. My main goa
 
 Alongside my Software Engineering studies, I'm deepening my knowledge in Java, Node.js, SQL, and general backend concepts. I consider myself at an early stage, but I'm intentional about learning the right way and building a solid foundation to grow as a developer.
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtha3g0dGVudHc1ano2ZW5lNGU5Z3k4M3EwOHg2YWdnNDI0czZ3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ssts7rvD7E01O/giphy.gif" width="380">
+  <img src="https://media0.giphy.com/media/Ssts7rvD7E01O/giphy.gif" width="380">
 </div>
 
