@@ -4,16 +4,13 @@ I'm João Otávio, a backend-focused developer from Brazil and a Software Engine
 I learn by building real projects step by step, with a strong focus on fundamentals, clarity, and clean code.
 
 
-## 🚀 What I work with
+## 🚀 What I do
 
-I mainly build backend applications using **Java** and **Node.js**, focusing on:
 
 - RESTful APIs
 - Business logic and data flow
 - SQL databases and data modeling
 - Code readability and maintainability
-
-My projects usually involve CRUD systems, API design, and backend structure rather than just isolated exercises.
 
 
 ## 🧠 Background
@@ -23,8 +20,6 @@ During this time, I:
 - Fixed bugs in backend systems
 - Reviewed Java code
 - Worked closely with developers on real production flows
-
-This gave me a solid understanding of how backend systems behave in real-world environments.
 
 
 ## 📚 Currently learning
