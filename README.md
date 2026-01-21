@@ -27,16 +27,6 @@ During this time, I:
 This gave me a solid understanding of how backend systems behave in real-world environments.
 
 
-## 🔧 What I'm focusing on now
-
-Currently, I'm deepening my backend skills by:
-- Building and improving Java and Node.js APIs
-- Strengthening my understanding of business rules and backend architecture
-- Practicing clean code and better project organization
-
-I aim to grow as a backend developer by consistently shipping projects and improving them over time.
-
-
 ## 📚 Currently learning
 
 - Java (backend & APIs)
