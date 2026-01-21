@@ -1,18 +1,49 @@
 ## Hi there 👋
 
-My name is João Otávio. I'm a backend-focused developer from Brazil and a Software Engineering student. I like learning by doing and building things step by step, focusing on strong fundamentals rather than shortcuts.
+I'm João Otávio, a backend-focused developer from Brazil and a Software Engineering student.
+I learn by building real projects step by step, with a strong focus on fundamentals, clarity, and clean code.
 
-## About my experience 🧠
 
-I spent around one year working in a QA role, where I was directly involved with Java codebases. During this time, I fixed bugs, reviewed Java code, and worked closely with developers, which gave me a practical understanding of how backend systems behave in real environments.
+## 🚀 What I work with
 
-## What I'm focusing on now 🚀
+I mainly build backend applications using **Java** and **Node.js**, focusing on:
 
-I'm currently focused on backend development using Java and Node.js. My main goal is to strengthen my understanding of APIs, business logic, data modeling, and clean code practices, while consistently building and improving projects.
+- RESTful APIs
+- Business logic and data flow
+- SQL databases and data modeling
+- Code readability and maintainability
 
-## What I'm learning 📚
+My projects usually involve CRUD systems, API design, and backend structure rather than just isolated exercises.
 
-Alongside my Software Engineering studies, I'm deepening my knowledge in Java, Node.js, SQL, and general backend concepts. I consider myself at an early stage, but I'm intentional about learning the right way and building a solid foundation to grow as a developer.
+
+## 🧠 Background
+
+I have around one year of experience working in a **QA role**, where I was directly involved with **Java codebases**.
+During this time, I:
+- Fixed bugs in backend systems
+- Reviewed Java code
+- Worked closely with developers on real production flows
+
+This gave me a solid understanding of how backend systems behave in real-world environments.
+
+
+## 🔧 What I'm focusing on now
+
+Currently, I'm deepening my backend skills by:
+- Building and improving Java and Node.js APIs
+- Strengthening my understanding of business rules and backend architecture
+- Practicing clean code and better project organization
+
+I aim to grow as a backend developer by consistently shipping projects and improving them over time.
+
+
+## 📚 Currently learning
+
+- Java (backend & APIs)
+- Node.js
+- SQL & relational databases
+- Backend fundamentals and system design basics
+
 <div align="center">
   <img src="https://media0.giphy.com/media/Ssts7rvD7E01O/giphy.gif" width="380">
 </div>
