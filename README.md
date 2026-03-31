@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I'm João Otávio, a backend-focused developer from Brazil and a Software Engineering student.
-I learn by building real projects step by step, with a strong focus on fundamentals, clarity, and clean code.
 
 
 ## 🚀 What I do
