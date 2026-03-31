@@ -8,7 +8,7 @@ I'm João Otávio, a backend-focused developer from Brazil and a Software Engine
 
 - RESTful APIs
 - Business logic and data flow
-- SQL databases and data modeling
+- SQL databases
 - Code readability and maintainability
 
 
